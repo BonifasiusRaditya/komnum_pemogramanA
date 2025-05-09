@@ -1,7 +1,3 @@
-Berikut adalah README GitHub yang sesuai dengan laporan akhir tugas Anda. README ini disusun secara profesional dengan struktur yang rapi dan mudah dipahami oleh pembaca atau pengguna GitHub:
-
----
-
 # Analisis dan Visualisasi Data: Curve Fitting, Regresi, dan Interpolasi
 
 ##  Deskripsi Proyek
